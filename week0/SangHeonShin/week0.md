@@ -10,5 +10,5 @@
 
 ### week0 assignment
 
-사용하고자 하는 언어 : javascript
+사용하고자 하는 언어 : javascript  
 관심사 : front-end, design
